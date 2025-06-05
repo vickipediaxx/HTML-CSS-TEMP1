@@ -1,17 +1,17 @@
-# Yummy Cakes
+# Cake Shop Website 
 
-This is a simple, responsive website template for a cake shop. It includes:
+This is a simple **HTML and CSS** template for a cake shop landing page.
 
-- A hero section with a call-to-action
-- Best selling products
-- About Us section
-- A gallery
-- Social media links
-- A mailing list signup form
+## Features
 
-To use it:
+- Clean and responsive layout  
+- Hero section, best-selling items, about us, gallery, and social icons  
+- Easy to customize!
 
-1. Download or clone the repository.
-2. Open `index.html` in your browser.
-3. Replace the placeholder images and text with your own content.
-4. Customize the styles in `style.css` as needed.
+## Usage
+
+1. Download or clone this repo.  
+2. Open `index.html` in your browser to see the template.  
+3. Replace text, images, and styles as needed in `index.html` and `style.css`.
+
+Have fun customizing your cake shop!✨
